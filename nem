@@ -1,7 +1,9 @@
-= This is content =
-All right, this is '''content!'''
+h1. This is content
 
-====== What's this? ======
-It's ''content''
+All right, this is *content!*
+
+h3. What's this?
+
+It's +content+
 
 *NEM!*
