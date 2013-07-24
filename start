@@ -1,2 +1,36 @@
 THIS IS NEW START [[nem|nem oldala]]
 [[tuszt:home|tuszt home-ja]]
+
+*Félkövér*
+_Dőlt_
++Aláhúzott+
+-Áthúzott-
+*_+-félkövérdőltaláhúzottáthúzott-+_*
+
+@while (i<10) {
+ i = i + 1
+}@
+
+h1. Első cím
+
+h2. Második cím
+
+h3. Harmadik cím
+
+* fel
+* soro
+* lás
+
+# első
+# második
+# harmadik
+
+> behúzás
+
+<pre>
+előreformázott szöveg *félkövéren*
+</pre>
+
+[[MyNewWikiPage]]
+
+!http://www.junkinside.com/wp-content/uploads/2008/11/wildflowers-fredericksburg-texas-laptops-picture.jpg!
