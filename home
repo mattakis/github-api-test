@@ -1,5 +1,38 @@
-h1. Welcome to my program!
+[[nem]]
+[[de]]
+[[tuszt:home|tuszt/home]]
+[[MyNewWikiPage]]
 
-This is _home_.
+*Félkövér*
+_Dőlt_
++Aláhúzott+
+-Áthúzott-
+*_+-félkövérdőltaláhúzottáthúzott-+_*
 
-*Another test.*
+@while (i<10) {
+ i = i + 1
+}@
+
+h1. Első cím
+
+h2. Második cím
+
+h3. Harmadik cím
+
+* fel
+* soro
+* lás
+
+# első
+# második
+# harmadik
+
+> behúzás
+
+<pre>
+előreformázott szöveg *félkövéren*
+</pre>
+
+
+
+!http://totallycoolpix.com/wp-content/uploads/2012/12/itp_matt_molly1.jpg!
